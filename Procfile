@@ -1,1 +1,1 @@
-gunicorn ElectronicsItems.wsgi:application
+web: gunicorn ElectronicsItems.wsgi
